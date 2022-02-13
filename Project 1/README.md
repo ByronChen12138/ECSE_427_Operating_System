@@ -13,7 +13,7 @@ The remaining strings in the line are considered as arguments for the command. F
 .
 ├── Project Description.pdf
 ├── README.md
-└── codes
+└── Codes
     ├── Project 1.h
     └── Project 1.c
 ```
