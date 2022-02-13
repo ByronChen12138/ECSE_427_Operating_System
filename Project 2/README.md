@@ -1,4 +1,4 @@
-# ECSE 427 Project 1 (Fall 2021)
+# ECSE 427 Project 2 (Fall 2021)
 
 ## Description
 In this project a shell interface is implemented that accepts user commands and executes each command in a **separate process**. 
