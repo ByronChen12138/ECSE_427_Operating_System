@@ -1,4 +1,4 @@
-# ECSE_427_Operating_System Fall 2021
+# ECSE 427 Operating System Fall 2021
 Operating System coursework in C code at McGill University.
 
 ## **Project 1** - A Simple Shell
