@@ -4,7 +4,7 @@
 In this project, a simple file system (SFS) that can be mounted by the user under a directory in the user’s machine is designed and implemented. 
 The SFS is only working only in Linux. 
 The SFS introduces many limitations such as restricted filename lengths, no user concept, no protection among files, no support for concurrent access, etc. 
-Furthermore, FUSE is also tested to be working properly in this system.
+Furthermore, FUSE is also tested to be working properly in this system. The files from the user are stored on the disk and features, e.g. create, read, write and open, are implemented by using **i-Node Table** and **Bitmap**. **GDB** was used for debugging and the system was checked to be **free from memory leak**.
 
 ## Project Structure
 
